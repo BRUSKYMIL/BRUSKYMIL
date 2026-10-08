@@ -21,14 +21,14 @@ Methodical and focused on writing reliable, well-documented code.
 - 🏛️ Developing web applications with **C#**, **ASP.NET Web Forms**, **.NET** and **SQL** at the Registro Mercantil de Madrid
 - 🤖 Integrating **local AI models** into .NET applications
 - 🧠 Building **GAIA**, my personal AI assistant that orchestrates local and cloud models with voice, image generation and automation
-- 🎮 Running **GamerZone**, my real-time communication platform, in production
+- 🎮 Evolving **GamerZone**, my real-time communication platform (hosting currently paused)
 
 ## Featured projects
 
 ### GamerZone — real-time communication platform
 
-A full communication platform built and operated end to end, running in production on a cloud VM
-with real daily users.
+A full communication platform built and deployed end to end. It ran in production on a cloud VM
+with real users; hosting is currently paused.
 
 - Servers with roles and granular permissions, text channels and group direct messages
 - **WebRTC** voice calls with screen sharing, resilient to reconnects and background tabs
@@ -38,7 +38,6 @@ with real daily users.
 
 `Node.js` · `WebSockets` · `WebRTC` · `PWA + Web Push` · `Electron` · `Oracle Cloud + Caddy`
 
-**Live:** [gamerzone-gg.duckdns.org](https://gamerzone-gg.duckdns.org)
 
 ### GAIA — personal AI assistant
 
